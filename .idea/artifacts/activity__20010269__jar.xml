@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="activity_&lt;20010269&gt;:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/activity__20010269__jar</output-path>
+    <root id="archive" name="activity-selection.jar">
+      <element id="module-output" name="activity-selection" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,6 @@
+
+D
+java:S1121D".Extract the assignment out of this expression.(óÙÑ¡
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( åâ
+`
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ıÿÿÿÿ
