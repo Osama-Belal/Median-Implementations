@@ -1,0 +1,17 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç¯Ä¾ûÿÿÿÿ
+f	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×
+[
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(êêÇ+
+a
+java:S2184"ECast one of the operands of this subtraction operation to a "double".(òñÌµÿÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘üØz
+[
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(İÄí­
+[
+java:S2095<"EUse try-with-resources or close this "Scanner" in a "finally" clause.(İÄí­
+C
+java:S1659U"-Declare "emptyIndexRight" on a separate line.(ä„ı
+<
+java:S1659€" Declare "p2" on a separate line.(ÈÕ–•úÿÿÿÿ
+W	java:S125"<This block of commented-out lines of code should be removed.(şèûÓıÿÿÿÿ
